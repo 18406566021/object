@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.home1{
+    width: 100%;
+    height: 33px;
+    background-color: #a9180a;
+}
+.top-box{
+    width: 1230px;
+    height: 33px;
+    /*background-color: pink;*/
+    margin:  0 auto;
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+    line-height: 33px;
+}
+.top-box-left{
+    width: 218px;
+    height: 33px;
+    /*background-color: green;*/
+    float: left;
+}
+.top-box-right{
+    width: 528px;
+    height: 33px;
+    /*background-color: yellow;*/
+    float: right;
+}
+.box-left1{
+    width: 84px;
+    height: 33px;
+    /*background-color: aqua;*/
+    float: left;
+    margin-right: 10px;
+}
+.box-left2{
+    width: 60px;
+    height: 33px;
+    float: left;
+    cursor: pointer;
+}
+.box1{
+    width: 74px;
+    height: 33px;
+    /*background: pink;*/
+    color: #ffffff;
+    float: left;
+    position: relative;
+    cursor: pointer;
+}
+.box1 a{
+    color: #ffffff;
+}
+.box1:hover{
+    background-color: white;
+}
+.box1:hover .tb{
+    color: red;
+    text-decoration: underline red;
+}
+.xiala{
+    width: 96px;
+    height: 57px;
+    /*background: pink;*/
+    position: absolute;
+    left: 0;
+    top: 33px;
+    padding: 8px 10px;
+    box-sizing: border-box;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    display: none;
+}
+.box1:hover .xiala{
+    display: block;
+}
+.box2{
+    width: 94px;
+    height: 33px;
+    background: green;
+    float: left;
+}
+.box3{
+    width: 62px;
+    height: 33px;
+    background: blue;
+    float: left;
+}
+.box-shugang{
+    width: 1px;
+    height: 14px;
+    background: #ffffff;
+    margin: 0px 2px 0px 5px;
+    float: left;
+}
+.box4{
+    width: 72px;
+    height: 33px;
+}
