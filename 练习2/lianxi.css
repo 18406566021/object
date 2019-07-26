@@ -1,0 +1,302 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    font-size: 18px;
+    color: #ff0036;
+    text-align: center;
+    line-height: 200px;
+    font-weight: 500;
+    margin: 20px auto;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    /*background-color: pink;*/
+    font-size: 18px;
+    color: #ff0036;
+    text-align: center;
+    line-height: 200px;
+    font-weight: 500;
+    margin: 20px auto;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: rgba(0,0,0,.6) 1px 1px 1px;
+    /*box-shadow: 1px 1px 1px 2px #ff0036;*/
+    padding: 10px 10px 10px 10px;
+    box-sizing: border-box;
+    /*display: none;*/
+    /*background-image: url("");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+    background: -webkit-linear-gradient(left,blue,red);
+    /*这里加内核*/
+}
+.weilei{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    margin: 20px auto;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 200px;
+    font-weight: 500;
+    position: relative;
+}
+.weilei:hover{
+    color: #ff0036;
+    background-color: green;
+}
+.jntm{
+    position: absolute;
+    left: 220px;
+    top: 0;
+    width: 0px;
+    height: 200px;
+    background: url("img/jntm.jpg");
+    background-size: cover;
+    /*display: none;*/
+    transition: all 0.5s;
+}
+.weilei:hover .jntm{
+    /*display: block;*/
+    width: 400px;
+    transition: width 0.5s;
+}
+.weijiegou{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    margin: 20px auto;
+}
+.son{
+    width: 40px;
+    height: 200px;
+    background: red;
+    float: left;
+}
+.son:nth-child(2){
+    height: 180px;
+    background: yellow;
+}
+.son:nth-child(3){
+    height: 160px;
+    background: blue;
+}
+.son:nth-child(4){
+    height: 140px;
+    background: green;
+}
+.son:nth-child(5){
+    height: 120px;
+    background: orange;
+}
+/*有些元素有默认的padding/margin值；*/
+/* margin值可以为负数，padding值不可以为负数；*/
+/* margin值是可以重叠，取最大值；*/
+/* 行内元素不能设置上下margin值；*/
+/* 如果父子元素没有边框，并且父子元素之间没有内容，子元素的margin值会设置到父元素身上。*/
+/*（1)添加边框*/
+/*（2)给父元素添加内填充*/
+/*（3)定位*/
+/*（4)浮动*/
+.liebiao{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    margin: 20px auto;
+}
+.yyy{
+    width: 50px;
+    height: 50px;
+    list-style: none;
+    float: left;
+    line-height: 50px;
+    text-align: center;
+}
+ /*ul，li--列表标签(无序列表)*/
+ /*       (list-style:none(所有body)/list-style-type:none(去掉单个);*/
+ /*       none不使用项目符号*/
+ /*       disc实心圆，默认值*/
+ /*       circle空心圆*/
+ /*       square实心方块*/
+ /*       decimal阿拉伯数字*/
+ /*       lower-roman小写罗马数字*/
+ /*       upper-roman大写罗马数字*/
+ /*       lower-alpha小写英文字母*/
+ /*       upper-alpha大写英文字母)*/
+/*转化为块标签:添加属性 display:block;*/
+/*转化为行内标签:添加属性 display: inline;*/
+/*转化为行内块标签:添加属性 display: inline-block;*/
+/*1.同一级别可以相互嵌套*/
+/*2.级别高可以嵌套级别低的*/
+/*3.段落标签*/
+/*4.a标签不能嵌套a标签*/
+/*浮动问题*/
+/*问题：子元素无法撑开父元素*/
+/*解决方法：*/
+/* 给父元素设置高度；*/
+/* 给父元素设置overflow：hidden;*/
+/*在父元素的子元素最后添加一个新的子元素，添加样式：clear：both；*/
+.dinwei{
+    width: 100%;
+    height: 200px;
+}
+.dwhz1{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    margin: 0 50px 0 200px;
+    float: left;
+    position: relative;
+}
+.jdjz{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.dwhz2{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    margin: 0 50px 0 210px;
+    float: left;
+    position: relative;
+}
+.spjz{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin:  0 auto;
+}
+.dwhz3{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    margin: 0 50px 0 210px;
+    float: left;
+    position: relative;
+}
+.czjz{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto 0;
+}
+.xiaoguo{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    margin: 20px auto;
+    font-size: 18px;
+    color: #ff0036;
+    text-align: center;
+    line-height: 200px;
+    font-weight: 500;
+    transition: all 0.5s linear;
+}
+.xiaoguo:hover{
+    /*transform: translate(2px,-1px);*/
+    /*transform: scale(2);*/
+    /*transform: skew(2deg);*/
+    transform: rotate(180deg);
+    transition: all 0.5s linear;
+}
+@keyframes donghua{
+    0%{
+        width: 200px;
+        height: 200px;
+        background-color: pink;
+        }
+    50%{
+        width: 200px;
+        height: 250px;
+        background-color: green;
+    }
+    100%{
+        width: 200px;
+        height: 300px;
+        background:url("img/jntm2.jpg");
+        background-position: -60px 0;
+        }
+}
+.donghua{
+    width: 200px;
+    height: 300px;
+    background-color: orange;
+    margin: 20px auto;
+}
+.donghua{
+    animation: donghua linear 2s;
+}
+.xiangyingshi{
+    width: 100%;
+    height: 200px;
+    background-color: green;
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-around;
+}
+.xys{
+    width: 200px;
+    height: 200px;
+    background: orange;
+    font-size: 18px;
+    color: white;
+    line-height: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.jntmnew{
+    width: 400px;
+    height: 200px;
+    background: url("img/jntm.jpg");
+    background-size: cover;
+    margin: 0 auto;
+    display: none;
+}
+@media screen and (max-width:1250px){
+    .new1{
+        display:none;
+    }
+}
+@media screen and (max-width:830px){
+    .xys:nth-child(3){
+        display: none;
+    }
+    .xys:nth-child(4){
+        display: none;
+    }
+}
+@media screen and (max-width:500px){
+    .xys{
+        display:none;
+    }
+    .jntmnew{
+        display: block;
+    }
+    .xiangyingshi{
+        background: white;
+    }
+}
