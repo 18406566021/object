@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+             <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+                         <meta http-equiv="X-UA-Compatible" content="ie=edge">
+             <title>个人信息表</title>
+             <link rel="stylesheet" href="index.css">
+             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+<body>
+<h3>个人信息表</h3>
+<form action="http://www.4399.com">
+<table class="table-bordered">
+    <tr>
+        <td style="text-align: center">姓名</td>
+        <td>
+            <input type="text" class="form-control" placeholder="请输入你的名字">
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center">密码</td>
+        <td>
+            <input type="password" class="form-control" placeholder="请输入你的密码" maxlength="8">
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center">性别</td>
+        <td>
+            <label for="nan">男</label>
+            <input type="radio" name="sex" id="nan" checked>
+            <label for="nv">女</label>
+            <input type="radio" name="sex" id="nv">
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center">邮箱</td>
+        <td>
+            <input type="email" class="form-control" placeholder="请输入你的邮箱">
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center">电话</td>
+        <td>
+            <input type="tel" class="form-control" placeholder="请输入你的电话号">
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center">爱好</td>
+        <td>
+            <input type="checkbox" name="aihao" value="chang">唱
+            <input type="checkbox" name="aihao" value="tiao">跳
+            <input type="checkbox" name="aihao" value="rap">rap
+            <input type="checkbox" name="aihao" value="bask">篮球
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center">城市</td>
+        <td >
+         <select name="chengshi" id="" class="form-control">
+         <option value="" >上海</option>
+         <option value="">北京</option>
+         <option value="" >广州</option>
+         <option value="">深圳</option>
+         <option value="">杭州</option>
+         </select>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center">个人介绍</td>
+        <td>
+        <textarea name="" id="" cols="30" rows="10" style="resize: none"></textarea>
+        </td>
+    </tr>
+    <tr>
+        <td>上传文件</td>
+        <td>
+        <input type="file">
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center">日期/时间</td>
+        <td><input type="datetime-local" class="form-control"></td>
+    </tr>
+    <tr>
+        <td style="text-align: center">音频</td>
+        <td><audio src=""></audio></td>
+    </tr>
+    <tr>
+        <td style="text-align: center">视频</td>
+        <td><video src=""></video></td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center">
+            <input type="submit" value="提交">
+            <button type="submit">提交</button>
+            <input type="reset" value="重置">
+        </td>
+    </tr>
+</table>
+</form>
+</body>
+</html>

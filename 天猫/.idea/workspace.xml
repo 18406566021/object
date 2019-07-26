@@ -2,8 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5990dbe9-a1e7-4f4d-89f1-e87a120d8c13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../个人信息表/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../个人信息表/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../个人信息表/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../个人信息表/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../个人信息表/.idea/个人信息表.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../个人信息表/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../个人信息表/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移动端/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移动端/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移动端/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移动端/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移动端/.idea/移动端.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移动端/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移动端/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../苹果/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../苹果/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../苹果/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../苹果/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../苹果/.idea/苹果.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../苹果/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../苹果/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../苹果/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../小米/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../小米/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../小米/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../小米/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../小米/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../小米/index.html" afterDir="false" />
@@ -15,12 +38,51 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="60" lean-forward="true" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+            <state relative-caret-position="540">
+              <caret line="3568" column="32" selection-start-line="3568" selection-start-column="32" selection-end-line="3568" selection-end-column="32" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#7;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#7;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#8;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#9;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#10;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#11;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#12;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#13;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#14;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#15;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#16;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#17;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#18;n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#10;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#11;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#12;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#9;n#div#12;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#13;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#13;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#13;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#13;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#13;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -28,13 +90,39 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="70" column="23" lean-forward="true" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+            <state relative-caret-position="517">
+              <caret line="1788" column="10" selection-start-line="1788" selection-start-column="10" selection-end-line="1788" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sc</find>
+      <find>i</find>
+      <find>box1</find>
+      <find>xiala5</find>
+      <find>xiala</find>
+      <find>home2-box img</find>
+      <find>!</find>
+      <find>tc-left</find>
+      <find>home4-z</find>
+      <find>zhezhao</find>
+      <find>home6-b</find>
+      <find>zhe</find>
+      <find>hph</find>
+      <find>cnx</find>
+      <find>zz</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -42,26 +130,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/dd.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/天猫.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-15" />
-    <option name="y" value="35" />
-    <option name="width" value="1905" />
-    <option name="height" value="980" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="250" />
+    <option name="y" value="50" />
+    <option name="width" value="1509" />
+    <option name="height" value="969" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -86,9 +165,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -123,25 +211,25 @@
       <option name="presentableId" value="Default" />
       <updated>1563778596782</updated>
       <workItem from="1563778600027" duration="6546000" />
+      <workItem from="1563806615006" duration="553000" />
+      <workItem from="1563841820190" duration="1664000" />
+      <workItem from="1563863469031" duration="18156000" />
+      <workItem from="1563928353057" duration="31776000" />
+      <workItem from="1564018212874" duration="16181000" />
+      <workItem from="1564117926003" duration="15604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6546000" />
+    <option name="totallyTimeSpent" value="90480000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="200" y="40" width="1207" height="775" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.154047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -149,30 +237,114 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14975846" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dd.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="60" lean-forward="true" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        <state relative-caret-position="540">
+          <caret line="3568" column="32" selection-start-line="3568" selection-start-column="32" selection-end-line="3568" selection-end-column="32" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#7;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#8;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#9;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#10;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#11;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#12;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#13;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#14;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#15;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#16;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#17;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#18;n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#10;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#11;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#12;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#9;n#div#12;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#13;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#13;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#13;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#13;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#13;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="70" column="23" lean-forward="true" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+        <state relative-caret-position="517">
+          <caret line="1788" column="10" selection-start-line="1788" selection-start-column="10" selection-end-line="1788" selection-end-column="10" />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

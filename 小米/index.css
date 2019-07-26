@@ -722,6 +722,7 @@
     color: #333;
     font-size: 22px;
     font-weight: 100;
+    position: relative;
 }
 .home-one-wenzi2{
     float: right;
@@ -836,6 +837,7 @@ h3.USB {
 	text-overflow: ellipsis;
 	/* 文本超出部分省略号表示 */
 	white-space: nowrap;
+    line-height: 20px;
 }
 .tp-box{
 	position: absolute;
@@ -871,6 +873,7 @@ h3.USB {
 h3.mi-title{
     color: #212121;
     font-size: 14px;
+    line-height: 20px;
     font-weight: 400;
     margin: 0 19px 3px;
     overflow: hidden;
@@ -890,12 +893,14 @@ p.mi-desc{
     /*文本超出部分省略号显示*/
     white-space: nowrap;
     /*文字不换行*/
+    line-height: 20px;
 }
 p.mi-space{
     color: #ff6709;
     font-size: 14px;
     text-align: center;
     margin-right: 10px;
+    line-height: 20px;
 }
 p.mi-space del{
     color: #b0b0b0;
@@ -918,11 +923,24 @@ p.mi-space del{
 }
 .new1{
     width: 70px;
-    height: 50px;
+    height: 40px;
     /*background: green;*/
     float: left;
     text-align: center;
     line-height: 50px;
+}
+.yingyin-box{
+    width: 992px;
+    height: 614px;
+    /*background: pink;*/
+    position: absolute;
+    left: 234px;
+    top: 50px;
+    z-index: 1;
+    display: none;
+}
+.yingyin:hover .yingyin-box{
+    display: block;
 }
 .home-one-wenzi3{
     float: right;
@@ -933,7 +951,7 @@ p.mi-space del{
 }
 .new1:hover{
     color: #ff6700;
-    transition: 0.5s;
+    border-bottom: 2px solid #ff6700;
 }
 .imgs-two{
     width: 234px;
@@ -975,7 +993,7 @@ p.mi-space del{
     position: absolute;
     bottom: -76px;
     left: 0px;
-    padding: 8px 30px;
+    padding: 8px 30px 30px;
     box-sizing: border-box;
     transition: all 0.2s linear;
 }
@@ -990,10 +1008,12 @@ span.dyh{
     color: #fff;
     margin-bottom: 5px;
     font-size: 12px;
+    line-height: 20px;
 }
 span.deh{
     color: rgba(255,255,255,0.2);
     font-size: 12px;
+    line-height: 20px;
 }
 .flash-box{
     width: 1226px;
@@ -1266,11 +1286,63 @@ h3.wp {
 	padding-top: 45px;
 	box-sizing: border-box;
 	background: white;
-	transition: transform 0.5s;
+	transition: all 0.5s;
 	float: left;
-	/* position: relative; */
-}
+	 position: relative;
 
+}
+.nr-left{
+    width: 20px;
+    height: 48px;
+    position: absolute;
+    left: 0;
+    top: 198px;
+    background: rgba(66,66,66,0);
+    color:#fafafa;
+    transition: .5s;
+}
+.nr-left i{
+    line-height: 48px;
+    text-align: center;
+}
+.nr-right i{
+     line-height: 48px;
+    text-align: center;
+}
+.nr-right{
+    width: 20px;
+    height: 48px;
+    position: absolute;
+    right: 0;
+    top: 198px;
+    background: rgba(66,66,66,0);
+    color:#fafafa;
+    transition: .5s;
+}
+.nr-box-3:hover .nr-left{
+    background: rgba(66,66,66,0.2);
+}
+.nr-box-3:hover .nr-right{
+    background: rgba(66,66,66,0.2);
+}
+.nr-box-3s:hover .nr-left{
+    background: rgba(66,66,66,0.2);
+}
+.nr-box-3s:hover .nr-right{
+    background: rgba(66,66,66,0.2);
+}
+.nr-box-3t:hover .nr-left{
+    background: rgba(66,66,66,0.2);
+}
+.nr-box-3t:hover .nr-right{
+    background: rgba(66,66,66,0.2);
+}
+.nr-box-3h:hover .nr-left{
+    background: rgba(66,66,66,0.2);
+}
+.nr-box-3h:hover .nr-right{
+    background: rgba(66,66,66,0.2);
+}
 .nr-box-3s {
 	width: 296px;
 	height: 415px;
@@ -1284,6 +1356,7 @@ h3.wp {
 	background: white;
 	transition: transform 0.5s;
 	float: left;
+    position: relative;
 }
 .nr-box-3t {
 	width: 296px;
@@ -1691,6 +1764,18 @@ img.hkj{
     background-size: 30px;
     margin: 0 auto;
 }
+.shouji1{
+    width: 30px;
+    height: 30px;
+    /*background: pink;*/
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+}
+.shouji1 i{
+    width: 100%;
+    height: 100%;
+}
 .shoujiwenzi{
     margin-top: 5px;
     text-align: center;
@@ -1744,4 +1829,7 @@ img.hkj{
 .son1:hover .bar-pp{
     display: block;
     color: #757575;
+}
+.bot:hover{
+    background-color: #FF6700;
 }
