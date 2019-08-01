@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>LWW</title>
+</head>
+<body>
+
+</body>
+<script>
+    let num = parseInt(Math.random()*100)  // 返回值 0-1
+    while(true){
+        let num2 = parseInt(prompt("靓仔你来啦，快来猜个数吧："))
+        if(num2>num){
+            console.log("靓仔你说大了")
+        }else if(num2<num){
+            console.log("靓仔你说小了")
+        }else{
+            console.log("靓仔你成功啦！！")
+            break
+        }
+
+    }
+</script>
+</html>
