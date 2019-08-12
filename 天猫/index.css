@@ -617,6 +617,22 @@ span.ss-name{
     height: 500px;
     margin: 0 auto;
     position: relative;
+    overflow: hidden;
+}
+.home4-zj a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 1230px;
+}
+.home4-zj a img{
+    width: 100%;
+    height: 100%;
+}
+.home4-zj a:first-child{
+    left: 0;
 }
 .hb-left{
     width: 200px;
@@ -1180,10 +1196,10 @@ span.lol2{
 .tabhead1{
     width: 231px;
     height: 100%;
-    background: #00b262;
+    /*background: #00b262;*/
     padding: 0 20px;
     box-sizing: border-box;
-    color: #ffffff;
+    /*color: #ffffff;*/
     text-align: center;
     line-height: 57px;
     font-size: 18px;
@@ -1203,7 +1219,7 @@ span.lol2{
     cursor: pointer;
     position: relative;
 }
-.tabhead2:hover{
+.btnAction{
     background: #00b262;
     color: #ffffff;
 }
@@ -1213,13 +1229,14 @@ span.lol2{
     position: relative;
 }
 .fq2{
-    width: 462px;
+    width: 100%;
     height: 225px;
     position: absolute;
     right: 0;
-    bottom: -225px;
-    display: none;
-    z-index: 1;
+    top: 57px;
+}
+.conAction{
+    z-index: 20;
 }
 .fq img{
     width: 100%;
@@ -1229,9 +1246,6 @@ span.lol2{
 .fq2 img{
     width: 100%;
     height: 100%;
-}
-.tabhead2:hover .fq2{
-    display: block;
 }
 .tabszhezhao{
     width: 100%;
@@ -1570,6 +1584,9 @@ span.lol2{
     position: fixed;
     bottom: 50px;
     left: 105px;
+    transition:all .5s;
+    transform: scale(0,0);
+    transform-origin: bottom left;
 }
 .nav-box{
     width: 35px;
@@ -1788,4 +1805,50 @@ span.lol2{
 }
 .logobox-2:hover .logosj{
     display: block;
+}
+.xlssbox{
+    width: 100%;
+    height: 50px;
+    background-color:#ff0036;
+    position: fixed;
+    top: -50px;
+    z-index: 100;
+    transition:all .5s;
+}
+.xlss-zj{
+    width: 1230px;
+    height: 50px;
+    margin: 0 auto;
+}
+.xlss-logo{
+    width: 125px;
+    height: 50px;
+    float: left;
+}
+.xlss-logo img{
+    width: 100%;
+    height: 100%;
+}
+.xlsspush{
+    width: 648px;
+    height: 30px;
+    padding: 5px 3px 5px 5px;
+    box-sizing: border-box;
+    margin-left: 100px;
+    margin-top: 10px;
+    outline: none;
+    border: 0;
+    font-size: 12px;
+    float: left;
+}
+.ssann{
+    width: 90px;
+    height: 30px;
+    cursor: pointer;
+    margin-top: 10px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 16px;
+    color: #ffffff;
+    float: left;
 }

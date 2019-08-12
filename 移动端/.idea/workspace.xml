@@ -2,34 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97693243-bd82-4bf8-bda2-86ec584ded6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../个人信息表/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../个人信息表/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../个人信息表/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../个人信息表/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../个人信息表/.idea/个人信息表.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../个人信息表/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../个人信息表/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/移动端.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../苹果/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../苹果/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../苹果/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../苹果/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../苹果/.idea/苹果.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../苹果/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../苹果/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../苹果/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../凡客/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../凡客/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../凡客/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../凡客/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../凡客/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../天猫/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../天猫/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../天猫/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../天猫/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../天猫/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../天猫/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../小米/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../小米/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../小米/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../小米/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../小米/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../小米/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../苹果/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../苹果/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../苹果/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../苹果/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,19 +21,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2207">
-              <caret line="863" column="10" selection-start-line="863" selection-start-column="10" selection-end-line="863" selection-end-column="10" />
+            <state relative-caret-position="466">
+              <caret line="880" column="7" lean-forward="true" selection-start-line="880" selection-start-column="7" selection-end-line="880" selection-end-column="7" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#7;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#10;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#11;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#12;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#13;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#14;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#15;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#16;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#17;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#18;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#19;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#20;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#21;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#22;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#23;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#24;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#25;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#26;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#27;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#28;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="475">
               <caret line="277" column="18" selection-start-line="277" selection-start-column="18" selection-end-line="277" selection-end-column="18" />
             </state>
           </provider>
@@ -70,8 +82,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -88,8 +100,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="240" />
     <option name="y" value="10" />
-    <option name="width" value="1509" />
-    <option name="height" value="969" />
+    <option name="width" value="1510" />
+    <option name="height" value="970" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -154,17 +166,18 @@
       <updated>1564036368123</updated>
       <workItem from="1564036370445" duration="16360000" />
       <workItem from="1564132960593" duration="273000" />
+      <workItem from="1564283766164" duration="578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16633000" />
+    <option name="totallyTimeSpent" value="17211000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="192" y="8" width="1207" height="775" extended-state="0" />
+    <frame x="192" y="8" width="1208" height="776" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25413403" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25826088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -191,17 +204,47 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2207">
-          <caret line="863" column="10" selection-start-line="863" selection-start-column="10" selection-end-line="863" selection-end-column="10" />
+        <state relative-caret-position="475">
+          <caret line="277" column="18" selection-start-line="277" selection-start-column="18" selection-end-line="277" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="277" column="18" selection-start-line="277" selection-start-column="18" selection-end-line="277" selection-end-column="18" />
+        <state relative-caret-position="466">
+          <caret line="880" column="7" lean-forward="true" selection-start-line="880" selection-start-column="7" selection-end-line="880" selection-end-column="7" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#10;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#11;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#12;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#13;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#14;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#15;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#16;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#17;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#18;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#19;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#20;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#21;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#22;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#23;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#24;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#25;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#26;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#27;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#28;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
